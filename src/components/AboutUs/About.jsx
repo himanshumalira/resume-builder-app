@@ -54,11 +54,7 @@ export default function About() {
               (himanshumalira@gmail.com) at your convenience. Thank you for
               considering my application. Sincerely, Himanshu Pathak
             </p>
-            <p className="mt-4 text-gray-600">
-              Nobis minus voluptatibus pariatur dignissimos libero quaerat iure
-              expedita at? Asperiores nemo possimus nesciunt dicta veniam
-              aspernatur quam mollitia.
-            </p>
+            <p className="mt-4 text-gray-600"></p>
           </div>
         </div>
       </div>
